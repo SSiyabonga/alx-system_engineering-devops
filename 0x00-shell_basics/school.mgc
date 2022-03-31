@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -lr school
+grep -l ([school])
